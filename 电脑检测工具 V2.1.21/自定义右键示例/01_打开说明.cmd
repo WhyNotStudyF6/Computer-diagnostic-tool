@@ -1,0 +1,3 @@
+@echo off
+start "" notepad.exe "%~dp0???????.txt"
+exit /b 0
